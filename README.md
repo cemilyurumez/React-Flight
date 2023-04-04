@@ -3,11 +3,6 @@ React-Flight local makine üzerinde çalışan bir rest api ile haberleşip, se�
 
 ## Installation
 
-Öncelikle .env dosyası oluşturulup 
-VITE_API_BASE_URL=http://localhost:......
-
-base url ataması yapılmalıdır.
-
 Terminal ekranında
 
 ```bash
